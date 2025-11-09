@@ -18,15 +18,19 @@ A lightweight web-based compliance evidence tracking tool built with PHP and MyS
 
 Create a new MySQL database using **phpMyAdmin** (e.g., `PCI DSS/ISO/SOC2`).
 
-### 2. Import SQL Dump
+### 2. Copy Entire Repo and Unzip Vendor 
 
-Import the provided `.sql` file (from `db/` or `sql/` folder) using phpMyAdmin or MySQL CLI.
+Copy this entire repo and unzip vendor folder at the same location.
 
-### 3. Update Password
+### 3. Import SQL Dump
+
+Import the provided `.sql` file in the project directory folder (from `db/` or `sql/` folder) using phpMyAdmin or MySQL CLI.
+
+### 4. Update Password
 
 Update the default password in the users table (if needed). Passwords are hashed using `password_hash()`.
 
-### 4. Configure Database Connection
+### 5. Configure Database Connection
 
 Open the file `config.php` and update:
 
