@@ -3,6 +3,35 @@
 
 A lightweight web-based compliance evidence tracking tool built with PHP and MySQL, supporting multiple frameworks like ISO 27001, PCI DSS, GDPR, and more.
 
+[![LinkedIn Demo](https://img.shields.io/badge/Demo-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/posts/activity-7340996467597221889-179f?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhHx3IBAPgcB8m2yfwdjLyWA841eODQOso)
+[![GitHub Stars](https://img.shields.io/github/stars/yourusername/compliance-tool?style=social)](https://github.com/yourusername/compliance-tool/stargazers)
+[![Forks](https://img.shields.io/github/forks/yourusername/compliance-tool?style=social)](https://github.com/yourusername/compliance-tool/network/members)
+
+---
+
+## 🎥 Tool Demo (LinkedIn)
+🔗 [Watch Tool Demo on LinkedIn](https://www.linkedin.com/posts/activity-7340996467597221889-179f?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhHx3IBAPgcB8m2yfwdjLyWA841eODQOso)  
+> A visual walkthrough of how to use the tool from login to report view!
+
+---
+
+## 🤝 Contributing & Collaborators
+
+This tool is Open Source and actively evolving.  
+We welcome contributions in:
+
+- 📁 ISO 27001 / PCI DSS Control Mapping
+- 🧑‍💻 UI/UX Enhancements (Bootstrap, animations)
+- 🛡️ Security: .env / Vault / SQLi protection
+- ☁️ Cloud integrations
+
+### 🧪 How to Contribute:
+1. Fork this repo
+2. Create a branch: `git checkout -b feature-xyz`
+3. Push your changes: `git commit -m "Add xyz"` and `git push`
+4. Open a Pull Request
+5. Ping us via [LinkedIn](https://www.linkedin.com/in/iamtejkumar/) or open an issue!
+
 ---
 
 ## 🛠️ Prerequisites
