@@ -1,0 +1,11 @@
+{
+  "name": "yourorg/pci-compliance-tool",
+  "require": {
+    "phpoffice/phpspreadsheet": "1.29"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
