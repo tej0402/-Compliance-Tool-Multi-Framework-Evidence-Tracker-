@@ -97,7 +97,13 @@ require 'config.php';
       <a class="nav-link <?= ($tab ?? '') === 'history' ? 'active' : '' ?>" href="index.php?tab=history">History</a>
       <a class="nav-link <?= ($tab ?? '') === 'report' ? 'active' : '' ?>" href="index.php?tab=report">Report</a>
     </div>
-
+<?php if (isset($_SESSION['uid'])): ?>
+  <div class="navbar-nav">
+    <a class="nav-link <?= ($tab ?? '') === 'chat' ? 'active' : '' ?>" href="chat.php">
+      💬 Chat
+    </a>
+  </div>
+<?php endif; ?>
     <div class="navbar-nav ms-auto align-items-center">
       <?php if (isset($_SESSION['role']) && $_SESSION['role'] === 'Admin'): ?>
         <a href="user_management.php" class="btn btn-sm btn-light btn-manage">
@@ -111,3 +117,4 @@ require 'config.php';
     </div>
   </div>
 </nav>
+
