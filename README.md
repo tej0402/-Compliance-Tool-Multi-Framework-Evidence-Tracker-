@@ -4,8 +4,9 @@
 A lightweight web-based compliance evidence tracking tool with an AI Assistant built with PHP and MySQL, supporting multiple frameworks like ISO 27001, PCI DSS, GDPR, and more.
 
 [![LinkedIn Demo](https://img.shields.io/badge/Demo-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/posts/activity-7340996467597221889-179f?utm_source=share&utm_medium=member_desktop&rcm=ACoAABhHx3IBAPgcB8m2yfwdjLyWA841eODQOso)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/compliance-tool?style=social)][(https://github.com/tej0402/-Compliance-Tool-Multi-Framework-Evidence-Tracker-)]
-[![Forks](https://img.shields.io/github/forks/yourusername/compliance-tool?style=social)](https://github.com/yourusername/compliance-tool/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/tej0402/Compliance-Tool-Multi-Framework-Evidence-Tracker?style=social)](https://github.com/tej0402/Compliance-Tool-Multi-Framework-Evidence-Tracker/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/tej0402/Compliance-Tool-Multi-Framework-Evidence-Tracker?style=social)](https://github.com/tej0402/Compliance-Tool-Multi-Framework-Evidence-Tracker/network/members)
+
 
 ---
 
